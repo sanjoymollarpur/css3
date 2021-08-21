@@ -1,0 +1,91 @@
+body{
+    background-color:grey;
+}
+.nab-bar{
+    border: 4px solid red;
+    width: 250px;
+    margin: auto;
+    padding: 15px;
+    border-radius: 5px;
+    background-color: whitesmoke;
+    box-shadow: 5px 5px 2px purple;
+}
+.s1{
+    color: rgb(94, 12, 12);
+    margin-left: 50px;
+    padding: 3px;
+    font-weight: 700;
+    text-shadow: 1px 1px red;
+}
+.container{
+    border: 7px solid green;
+    height: fit-content;
+}
+.container-1{
+    display: flex;
+}
+.container-2{
+    display: flex;
+    margin-top: 39px;
+    margin-bottom: 40px;
+}
+.nab-bar-1{
+    border: 4px solid red;
+    width: 200px;
+    padding: 15px;
+    border-radius: 5px;
+    background-color: whitesmoke;
+    box-shadow: 5px 5px 2px purple;
+}
+.container-3{
+    border: 3px solid purple;
+    background-color: green;
+    
+    width: 900px;
+    margin: auto;
+    margin-top: 50px;
+    border-bottom: green;
+}
+.mb1{
+   margin-left: 42%;
+   margin-top: 20px;
+   font-weight: 900;
+}
+.b2{
+    margin-left: auto;
+}
+.mcontainer{
+    display: flex;
+    margin-top: 30px;
+    background-color: rgb(224, 224, 90);
+}
+.mb2{
+    width: 50%;
+    border: 2px solid green;
+    justify-content: center;
+    justify-items: center;
+}
+.m2{
+    width: fit-content;
+   margin: auto;
+   margin-top: 10px;
+   margin-bottom: 5px;
+}
+.m1{
+    font-weight: 900;
+}
+.container-4{
+   
+    border: 3px solid purple;
+    border-top: 3px solid green;
+    border-left: 3px solid purple;
+    
+    border-right: 0;
+    background-color: rgb(224, 224, 90);;
+    
+    width: 900px;
+    margin: auto;
+}
+.mb3{
+    border-bottom: 3px solid green;
+}
